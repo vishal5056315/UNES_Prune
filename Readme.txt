@@ -29,3 +29,5 @@ The classification experiments use a balanced cohort of **9,600 MRI images** con
 The cohort is divided into 8,000 training, 800 validation, and 800 independent test images.
 
 -main_notebook.ipynb – Complete implementation of the UNES-Prune methodology, including model training, pruning, evaluation, and result visualization.
+
+"If you use this code, then please cite this article: [ Optimizing Neural Pathways: UNES-Prune’s Integrated Approach to Brain Tumor Segmentation and Classification ]"
